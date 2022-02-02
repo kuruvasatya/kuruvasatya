@@ -1,7 +1,7 @@
 ### Hey There! 🦸‍👋
 
 ## I'm [Satya Ganesh Kuruva](https://kuruvasatya.github.io/) </br>
-<b> A rising senior at JIT studying Computer Science Engineering from <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="18"/> <b>Bengaluru, India</b>
+<b> Satya is a Java techie who completed his Bachelors in Computer Science from Sree Vidyanikethan Engineering College in the year 2021 with destinction. He is currently working as a Java Full Stack Developer in Morgan Stanley (on the payroll of Wiley Mthree India). He worked extensively with Java, Spring Boot, Hibernate, ELastic Search, Logstash, Kibana, Python. He is flexible to learn new things and explore the technologies.
 
 <a href="https://www.linkedin.com/in/satyaganesh6055"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://satyaganesh987.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <hr>
