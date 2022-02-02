@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/satyaganesh6055"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://satyaganesh987.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 <hr>
   
-![Karthik Ravishankar's github Stats](https://github-readme-stats.vercel.app/api?username=uravgkarthik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Satya's github Stats](https://github-readme-stats.vercel.app/api?username=kuruvasatya&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <a href="https://github.com/uravgkarthik/lbtcwebsite">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=uravgkarthik&repo=lbtcwebsite&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
