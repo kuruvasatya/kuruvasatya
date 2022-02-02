@@ -3,7 +3,7 @@
 ## I'm [Satya Ganesh Kuruva](https://kuruvasatya.github.io/) </br>
 <b> A rising senior at JIT studying Computer Science Engineering from <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="18"/> <b>Bengaluru, India</b>
 
-<a href="https://www.linkedin.com/in/satyaganesh6055"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/karthikravishankar/"><img src="https://img.shields.io/badge/Medium-%23E4405F.svg?&style=for-the-badge&logo=medium&logoColor=black" height=25></a> <a href="https://techturismo.com/"><img src="https://img.shields.io/badge/wordpress-%231DA1F2.svg?&style=for-the-badge&logo=wodrpress&logoColor=white" height=25></a></p>
+<a href="https://www.linkedin.com/in/satyaganesh6055"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/karthikravishankar/"><img src="https://img.shields.io/badge/Medium-%0000.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://techturismo.com/"><img src="https://img.shields.io/badge/wordpress-%231DA1F2.svg?&style=for-the-badge&logo=wodrpress&logoColor=white" height=25></a></p>
   
 <hr>
   
